@@ -4,7 +4,7 @@ Donate link: http://urosevic.net/kontakt/
 Tags: sociable, social, bookmark, bookmarks, bookmarking, social bookmarking, social bookmarks, ex-YU, exyu, sfry, balcan
 Requires at least: 2.6
 Tested up to: 2.8.2
-Stable tag: 0.4
+Stable tag: 0.5
 
 Extends Sociable plugin by Joost with ex-YU social bookmarking sites.
 
@@ -22,6 +22,9 @@ If you want to add your Social Bookmarking site (Must be ex-YU) to exYU Sociable
 2. Sociable with exYU Sociable extension in use on [Zapisi](http://blog.urosevic.net/).
 
 == Changelog ==
+
+= 0.5 =
+* Added Bosnian site Prati.ba.
 
 = 0.4 =
 * Added to Wordpress Extend repo.

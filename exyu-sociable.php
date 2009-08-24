@@ -3,7 +3,7 @@
 Plugin Name: exYU Sociable
 Plugin URI: http://blog.urosevic.net/wordpress/exyu-sociable/
 Description: Adds ex-YU Sites to <a href="http://yoast.com/wordpress/sociable/">Sociable</a> Plugin.
-Version: 0.4
+Version: 0.5
 Author: Aleksandar Urošević
 Author URI: http://urosevic.net/
 
@@ -29,7 +29,7 @@ load_plugin_textdomain('exyusoc', PLUGINDIR.'/'.dirname(plugin_basename(__FILE__
 function exyusociable_sites( $known_sites ) {
 	$exyupath = WP_CONTENT_URL.'/plugins/'.plugin_basename(dirname(__FILE__)).'/images/';
 
-	$known_sites['Ukusno!'] = Array(
+	$known_sites['Ukusno'] = Array(
 		'favicon' => $exyupath.'ukusno.png',
 		'url' => 'http://ukusno.com/submit.php?url=PERMALINK&amp;title=TITLE',
 		'description' => __('Share on', 'exyusoc').' Ukusno!',
@@ -57,6 +57,12 @@ function exyusociable_sites( $known_sites ) {
 		'favicon' => $exyupath.'kajmakot.png',
 		'url' => 'http://kajmakot.softver.org.mk/prijavi/?url=PERMALINK',
 		'description' => __('Share on', 'exyusoc').' Кајмак.от',
+	);
+
+	$known_sites['Prati.ba'] = Array(
+		'favicon' => $exyupath.'pratiba.png',
+		'url' => 'http://prati.ba/?objavi=PERMALINK',
+		'description' => __('Share on', 'exyusoc').' Prati.ba',
 	);
 
 	return $known_sites;
