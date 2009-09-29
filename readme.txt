@@ -10,9 +10,9 @@ Extends Sociable plugin by Joost with ex-YU social bookmarking sites.
 
 == Description ==
 
-Automatically expand social bookmarking sites for Sociable plugin with ex-YU sites. This Plugin is an addon of [Sociable](http://yoast.com/wordpress/sociable/) Plugin by Joost. Hence, this plugin requires Sociable(3.4 version and above) to be installed first for it to work.
+Automatically expand social bookmarking sites for Sociable plugin with ex-YU sites. This Plugin is an addon of [Sociable](http://yoast.com/wordpress/sociable/) Plugin by Joost. Hence, this plugin requires Sociable (3.4 version and above) to be installed first for it to work.
 
-Currently this plugin supports: linke.rs, Ukusno!, erupcija, CroPortal, Kajmak.ot and Prati.ba.
+Currently this plugin supports: linke.rs, Ukusno!, erupcija, CroPortal, Kajmak.ot, Prati.ba and DobarDabar.com.
 
 If you want to add your Social Bookmarking site (Must be ex-YU) to exYU Sociable Plugin, then [contact me](http://urosevic.net/kontakt/).
 
@@ -22,6 +22,9 @@ If you want to add your Social Bookmarking site (Must be ex-YU) to exYU Sociable
 2. Sociable with exYU Sociable extension in use on [Zapisi](http://blog.urosevic.net/).
 
 == Changelog ==
+
+= 0.6 =
+* Added site DobarDabar.com.
 
 = 0.5 =
 * Added Bosnian site Prati.ba.
