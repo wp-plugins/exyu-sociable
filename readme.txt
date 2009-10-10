@@ -4,7 +4,7 @@ Donate link: http://urosevic.net/kontakt/
 Tags: sociable, social, bookmark, bookmarks, bookmarking, social bookmarking, social bookmarks, ex-YU, exyu, sfry, balcan
 Requires at least: 2.6
 Tested up to: 2.8.4
-Stable tag: 0.5
+Stable tag: 0.6
 
 Extends Sociable plugin by Joost with ex-YU social bookmarking sites.
 
