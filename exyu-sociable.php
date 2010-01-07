@@ -3,7 +3,7 @@
 Plugin Name: exYU Sociable
 Plugin URI: http://blog.urosevic.net/wordpress/exyu-sociable/
 Description: Adds ex-YU Sites to <a href="http://yoast.com/wordpress/sociable/">Sociable</a> Plugin.
-Version: 0.6
+Version: 0.7
 Author: Aleksandar Urošević
 Author URI: http://urosevic.net/
 
@@ -69,6 +69,12 @@ function exyusociable_sites( $known_sites ) {
 		'favicon' => $exyupath.'dabar.png',
 		'url' => 'http://www.dobardabar.com/add_ext.html',
 		'description' => __('Share on', 'exyusoc').' Dobar Dabar',
+	);
+
+	$known_sites['PingMK'] = Array(
+		'favicon' => $exyupath.'pingmk.png',
+		'url' => 'http://r.ping.mk/submit?url=PERMALINK',
+		'description' => __('Share on', 'exyusoc').' ping.mk',
 	);
 
 	return $known_sites;

@@ -3,7 +3,7 @@ Contributors: urkekg
 Donate link: http://urosevic.net/kontakt/
 Tags: sociable, social, bookmark, bookmarks, bookmarking, social bookmarking, social bookmarks, ex-YU, exyu, sfry, balcan
 Requires at least: 2.6
-Tested up to: 2.8.4
+Tested up to: 2.9.1
 Stable tag: 0.6
 
 Extends Sociable plugin by Joost with ex-YU social bookmarking sites.
@@ -12,7 +12,7 @@ Extends Sociable plugin by Joost with ex-YU social bookmarking sites.
 
 Automatically expand social bookmarking sites for Sociable plugin with ex-YU sites. This Plugin is an addon of [Sociable](http://yoast.com/wordpress/sociable/) Plugin by Joost. Hence, this plugin requires Sociable (3.4 version and above) to be installed first for it to work.
 
-Currently this plugin supports: linke.rs, Ukusno!, erupcija, CroPortal, Kajmak.ot, Prati.ba and DobarDabar.com.
+Currently this plugin supports: linke.rs, Ukusno!, erupcija, CroPortal, Kajmak.ot, Prati.ba, DobarDabar.com and ping.mk.
 
 If you want to add your Social Bookmarking site (Must be ex-YU) to exYU Sociable Plugin, then [contact me](http://urosevic.net/kontakt/).
 
@@ -22,6 +22,8 @@ If you want to add your Social Bookmarking site (Must be ex-YU) to exYU Sociable
 2. Sociable with exYU Sociable extension in use on [Zapisi](http://blog.urosevic.net/).
 
 == Changelog ==
+= 0.7 =
+* Added Macedonian site ping.mk
 
 = 0.6 =
 * Added site DobarDabar.com.
